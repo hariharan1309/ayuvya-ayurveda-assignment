@@ -2,7 +2,9 @@
 
 ## This is a Sample Website Assignment for AYUVYA AYURVEDA
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+### Website - https://ayuvya-ayurveda-assignment-tau.vercel.app/
+
+This is a [Next. js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
